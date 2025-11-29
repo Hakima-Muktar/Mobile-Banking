@@ -26,14 +26,13 @@ SCRAPING_CONFIG = {
 
 # File Paths
 DATA_PATHS = {
-    'raw': 'data/raw',
-    'processed': 'data/processed',
-    'raw_reviews': 'data/raw/reviews_raw.csv',
-    'processed_reviews': 'data/processed/reviews_processed.csv',
-    'sentiment_results': 'data/processed/reviews_with_sentiment.csv',
-    'final_results': 'data/processed/reviews_final.csv'
+    'raw': r"C:\Users\user\Desktop\Project\Mobile-Banking\data\raw",
+    'processed': r"C:\Users\user\Desktop\Project\Mobile-Banking\data\processed",
+    'raw_reviews': r"C:\Users\user\Desktop\Project\Mobile-Banking\data\raw\reviews_raw.csv",
+    'processed_reviews': r"C:\Users\user\Desktop\Project\Mobile-Banking\data\processed\reviews_processed.csv",
+    'sentiment_results': r"C:\Users\user\Desktop\Project\Mobile-Banking\data\processed\reviews_with_sentiment.csv",
+    'final_results': r"C:\Users\user\Desktop\Project\Mobile-Banking\data\processed\reviews_final.csv"
 }
-
 
 
 
