@@ -53,11 +53,9 @@ class PlayStoreScraper:
 
     def scrape_all_banks(self):
         apps = [
-            "com.sc.awashpay",
-            "com.combanketh.et",
-            "com.ahabank.mobilebanking",
-            "com.abaybank.abyssinialive",
-            "com.oromiamobile.oromiaportal",
+            "com.cr2.amolelight",
+            "com.combanketh.mobilebanking",
+            "com.boa.boaMobileBanking",
         ]
 
         all_data = []
