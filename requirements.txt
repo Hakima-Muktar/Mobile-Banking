@@ -1,4 +1,9 @@
-
-
-scikit-learn
-
+pandas==2.3.3
+numpy==2.3.5
+seaborn==0.13.2
+matplotlib==3.10.7
+requests==2.32.5
+beautifulsoup4==4.14.3
+psycopg2-binary==2.9.11
+scikit-learn==1.5.2
+nltk==3.9.1
