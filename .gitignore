@@ -1,5 +1,16 @@
-# Ignore data files
-/data/
-# Python envs
 venv/
-.env
+data/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.idea/
+*.log
+*.sqlite3
+*.env
+*.bak
+*.tmp
+*.swp
+*.swo
+*.zip
+image-1
