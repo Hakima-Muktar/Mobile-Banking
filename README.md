@@ -6,7 +6,6 @@ This project analyzes user reviews from the Google Play Store for three major Et
 - Commercial Bank of Ethiopia (CBE)
 - Bank of Abyssinia (BOA)
 - Dashen Bank
-We apply NLP and ML techniques to uncover key customer pain points and satisfaction drivers. The goal is to extract sentiment insights and thematic trends that banks can use to improve their mobile services.
 
 #### Top 5 Pain Points
 
@@ -35,14 +34,15 @@ We apply NLP and ML techniques to uncover key customer pain points and satisfact
 - Responsiveness
   ###### Dashen Bank
 - Slowness in transactions
-
+- 
   # ❌ Common Pain Points
   ###### Commercial Bank of Ethiopia
 - lack of Transaction performance , User interface and experience
 ###### Bank of Abyssinia
 - lack of Transaction performance and technical Issues
-  ###### Dashen Bank
+###### Dashen Bank
   - lack of Transaction performance , User interface and experience
+- 
   ![alt text](image-1.png)
 
   ### Comparative Analysis Between Banks
